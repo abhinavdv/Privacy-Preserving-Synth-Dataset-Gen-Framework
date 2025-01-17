@@ -1,0 +1,301 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+2011-03-16,2011-03-30,e4acb325-3a6d-4d40-aa53-b787004dd01a,c81474f7-7627-4ba1-8cbb-055630396b19,309097,Cefuroxime 250 MG Oral Tablet,0.0,Unknown
+2011-03-16,2011-03-30,e4acb325-3a6d-4d40-aa53-b787004dd01a,c81474f7-7627-4ba1-8cbb-055630396b19,198405,Ibuprofen 100 MG Oral Tablet,0.0,Unknown
+2015-09-19,1970-01-01,e4acb325-3a6d-4d40-aa53-b787004dd01a,b18ddc59-1fcf-42c4-9cc9-347adb0cf13c,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2016-03-31,2016-05-07,27ad964e-7373-4f3d-84ef-ea189f0297cf,e82a0ea1-1f9c-4c3c-bdf2-e63e37e21477,282464,Acetaminophen 160 MG Oral Tablet,0.0,Unknown
+2010-11-28,2010-12-12,4500a70c-31eb-4115-9337-7e303bed4621,47ef3c3a-5285-49b4-903b-ed8a33c6274c,392151,Amoxicillin 200 MG Oral Tablet,0.0,Unknown
+2010-11-28,2010-12-12,4500a70c-31eb-4115-9337-7e303bed4621,47ef3c3a-5285-49b4-903b-ed8a33c6274c,198405,Ibuprofen 100 MG Oral Tablet,0.0,Unknown
+2011-12-02,2011-12-16,4500a70c-31eb-4115-9337-7e303bed4621,3f10378e-c0d7-4479-8d62-1c4b9ce2844c,392151,Amoxicillin 200 MG Oral Tablet,0.0,Unknown
+2011-12-02,2011-12-16,4500a70c-31eb-4115-9337-7e303bed4621,3f10378e-c0d7-4479-8d62-1c4b9ce2844c,198405,Ibuprofen 100 MG Oral Tablet,0.0,Unknown
+2015-10-26,2015-11-21,edaeb764-eb58-4d23-add5-294869791adb,bb327071-b6f2-42d6-9cf2-5785a286a75d,849574,Naproxen sodium 220 MG Oral Tablet,0.0,Unknown
+2011-03-08,2011-03-27,df4ebc6e-5a14-4220-a291-bde5902044c3,8cfafc2a-2197-47a7-9c70-960c2880a554,282464,Acetaminophen 160 MG Oral Tablet,0.0,Unknown
+2014-09-27,2014-10-07,df4ebc6e-5a14-4220-a291-bde5902044c3,d8c1dfb5-ff4a-4a6c-ba0a-5e19f98a3b8d,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+2011-06-21,2011-07-06,c3b5c8b8-a53d-4aaa-9eb9-e9a322135d08,4b0591c4-ed56-4228-86ad-f820caee3204,198405,Ibuprofen 100 MG Oral Tablet,0.0,Unknown
+2014-07-14,2014-07-28,c3b5c8b8-a53d-4aaa-9eb9-e9a322135d08,74493b50-6879-4da1-be10-1fa92be55da7,309097,Cefuroxime 250 MG Oral Tablet,0.0,Unknown
+2014-07-14,2014-07-28,c3b5c8b8-a53d-4aaa-9eb9-e9a322135d08,74493b50-6879-4da1-be10-1fa92be55da7,282464,Acetaminophen 160 MG Oral Tablet,0.0,Unknown
+1987-02-27,1970-01-01,858675ca-13f7-41e6-9b96-dd9cabf14970,853ce44e-8305-46ca-b8cd-164325ad5ff5,197378,Astemizole 10 MG Oral Tablet,0.0,Unknown
+1987-02-27,1970-01-01,858675ca-13f7-41e6-9b96-dd9cabf14970,853ce44e-8305-46ca-b8cd-164325ad5ff5,727316,0.3 ML EPINEPHrine 0.5 MG/ML Auto-Injector,0.0,Unknown
+1989-05-20,1970-01-01,858675ca-13f7-41e6-9b96-dd9cabf14970,853ce44e-8305-46ca-b8cd-164325ad5ff5,895994,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,233678006.0,Childhood asthma
+1989-05-20,1970-01-01,858675ca-13f7-41e6-9b96-dd9cabf14970,853ce44e-8305-46ca-b8cd-164325ad5ff5,745679,200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,233678006.0,Childhood asthma
+1991-04-11,1970-01-01,858675ca-13f7-41e6-9b96-dd9cabf14970,853ce44e-8305-46ca-b8cd-164325ad5ff5,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2010-06-30,2010-07-17,858675ca-13f7-41e6-9b96-dd9cabf14970,853ce44e-8305-46ca-b8cd-164325ad5ff5,313782,Acetaminophen 325 MG Oral Tablet,0.0,Unknown
+1967-09-14,1970-01-01,7717e3de-8012-44dd-a3d7-cc53680d332b,6967d126-7088-4319-b733-1a322779e6d2,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2005-05-31,1970-01-01,7717e3de-8012-44dd-a3d7-cc53680d332b,6967d126-7088-4319-b733-1a322779e6d2,896188,Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],185086009.0,Chronic obstructive bronchitis (disorder)
+2010-03-26,2010-07-21,221f8d47-97ff-4631-996b-45363da518e5,c2085da4-2b5e-400d-8139-4d280d39d60b,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2016-04-13,2016-05-11,221f8d47-97ff-4631-996b-45363da518e5,825ba630-ad13-4d4f-a377-d9cacc48a0d7,1310197,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin],0.0,Unknown
+2012-07-10,2012-11-13,533ae379-c7bf-4414-ada3-313483ba9953,2b377ecb-9e77-47e5-aa16-22adf4a0f208,807283,Mirena 52 MG Intrauterine System,0.0,Unknown
+2014-08-28,2014-09-16,533ae379-c7bf-4414-ada3-313483ba9953,d80d982a-3297-4c66-b24e-fd80cdefca80,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+1984-10-21,1970-01-01,d3b63c95-c6d6-4233-9202-f46941a29214,0711ac5a-95ed-41ba-a17b-1f3a431a072e,896188,Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],185086009.0,Chronic obstructive bronchitis (disorder)
+2000-06-22,1970-01-01,70f8605a-1f6f-4823-8efc-864a261560f9,15cc34cc-593c-4737-b8cf-f2a8342d0a34,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2000-09-08,1970-01-01,70f8605a-1f6f-4823-8efc-864a261560f9,15cc34cc-593c-4737-b8cf-f2a8342d0a34,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2015-12-02,1970-01-01,70f8605a-1f6f-4823-8efc-864a261560f9,aac95780-0545-41da-8417-14c985af6ae3,748879,Levora 0.15/30 28 Day Pack,0.0,Unknown
+1988-09-19,1970-01-01,fdc86da5-e68d-4866-9259-0e6f79a0eb2d,42c738e5-7602-4af7-bf85-7f04aa112f5b,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1994-01-20,1970-01-01,fdc86da5-e68d-4866-9259-0e6f79a0eb2d,42c738e5-7602-4af7-bf85-7f04aa112f5b,312961,Simvastatin 20 MG Oral Tablet,53741008.0,Coronary Heart Disease
+1994-01-20,1970-01-01,fdc86da5-e68d-4866-9259-0e6f79a0eb2d,42c738e5-7602-4af7-bf85-7f04aa112f5b,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+1994-01-20,1970-01-01,fdc86da5-e68d-4866-9259-0e6f79a0eb2d,42c738e5-7602-4af7-bf85-7f04aa112f5b,197361,Amlodipine 5 MG Oral Tablet,53741008.0,Coronary Heart Disease
+1998-10-21,1970-01-01,fdc86da5-e68d-4866-9259-0e6f79a0eb2d,42c738e5-7602-4af7-bf85-7f04aa112f5b,309362,Clopidogrel 75 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2012-09-30,2012-10-31,fdc86da5-e68d-4866-9259-0e6f79a0eb2d,b6e91833-e6db-4f40-9547-fb574ea36b09,313782,Acetaminophen 325 MG Oral Tablet,0.0,Unknown
+2014-07-08,2014-07-28,fdc86da5-e68d-4866-9259-0e6f79a0eb2d,90dbfec6-fb27-462b-8d68-41131a40a590,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+1969-03-16,1970-01-01,bbc6e5b4-0a6d-470a-87e9-78db43aeac4c,5b6834d0-ca72-4085-bf30-0469c9bad0e2,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+1974-08-10,1970-01-01,bbc6e5b4-0a6d-470a-87e9-78db43aeac4c,5b6834d0-ca72-4085-bf30-0469c9bad0e2,896188,Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],185086009.0,Chronic obstructive bronchitis (disorder)
+1989-01-01,1970-01-01,cb89906f-1481-4fd0-be6b-6329131574ba,ce9352b7-60c0-4210-b3e0-5961d32be5d0,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2002-11-02,1970-01-01,cb89906f-1481-4fd0-be6b-6329131574ba,ce9352b7-60c0-4210-b3e0-5961d32be5d0,860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,44054006.0,Diabetes
+2015-09-20,2015-10-26,cb89906f-1481-4fd0-be6b-6329131574ba,3c5722b4-314f-4777-851b-80642b21c86d,313782,Acetaminophen 325 MG Oral Tablet,0.0,Unknown
+1947-07-02,1959-02-26,60bbce31-1c15-49f5-9533-0d4e7b01ab20,0a3718e2-0984-492f-90fb-e5bd8a6bce35,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+1952-12-09,1970-01-01,60bbce31-1c15-49f5-9533-0d4e7b01ab20,0a3718e2-0984-492f-90fb-e5bd8a6bce35,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1959-02-26,1970-01-01,60bbce31-1c15-49f5-9533-0d4e7b01ab20,0a3718e2-0984-492f-90fb-e5bd8a6bce35,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],22298006.0,Myocardial Infarction
+2015-03-12,2015-04-06,964f1690-f959-430d-82e5-993c68f8217c,04d93211-760e-4cf9-bc60-3805994bcd33,313782,Acetaminophen 325 MG Oral Tablet,0.0,Unknown
+2008-01-08,1970-01-01,445c6b6e-9b84-477d-913c-f8c5335c776f,06e7d852-418b-4091-b0df-ad89043f9ca9,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2013-02-04,2013-02-22,445c6b6e-9b84-477d-913c-f8c5335c776f,37890510-34d7-48d7-904d-ee9dfcfc209b,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],75498004.0,Acute bacterial sinusitis (disorder)
+2013-12-19,2014-01-06,445c6b6e-9b84-477d-913c-f8c5335c776f,a0d6e81c-6442-4b25-ba91-1677707267c6,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+1968-02-01,1970-01-01,62f9eea5-49e5-46a4-b519-0e455324ec0e,1ba45038-c2aa-44b5-84f0-6537759e2d0f,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1971-02-18,1970-01-01,62f9eea5-49e5-46a4-b519-0e455324ec0e,1ba45038-c2aa-44b5-84f0-6537759e2d0f,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1985-12-23,1970-01-01,62f9eea5-49e5-46a4-b519-0e455324ec0e,1ba45038-c2aa-44b5-84f0-6537759e2d0f,106258,Hydrocortisone 10 MG/ML Topical Cream,40275004.0,Contact dermatitis
+1986-01-08,1970-01-01,62f9eea5-49e5-46a4-b519-0e455324ec0e,1ba45038-c2aa-44b5-84f0-6537759e2d0f,141918,Terfenadine 60 MG Oral Tablet,0.0,Unknown
+2014-10-25,2015-07-25,62f9eea5-49e5-46a4-b519-0e455324ec0e,02f83f7a-a6b1-4a3b-9dc9-b6ae7036da0c,309362,Clopidogrel 75 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2014-10-25,1970-01-01,62f9eea5-49e5-46a4-b519-0e455324ec0e,02f83f7a-a6b1-4a3b-9dc9-b6ae7036da0c,312961,Simvastatin 20 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2014-10-25,1970-01-01,62f9eea5-49e5-46a4-b519-0e455324ec0e,02f83f7a-a6b1-4a3b-9dc9-b6ae7036da0c,197361,Amlodipine 5 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2014-10-25,2015-07-25,62f9eea5-49e5-46a4-b519-0e455324ec0e,02f83f7a-a6b1-4a3b-9dc9-b6ae7036da0c,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+2015-07-25,1970-01-01,62f9eea5-49e5-46a4-b519-0e455324ec0e,5096d16a-3eed-46df-bc21-06466d8e57b4,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],22298006.0,Myocardial Infarction
+2015-07-25,2015-07-25,62f9eea5-49e5-46a4-b519-0e455324ec0e,5096d16a-3eed-46df-bc21-06466d8e57b4,259255,Atorvastatin 80 MG Oral Tablet,22298006.0,Myocardial Infarction
+2015-07-25,2015-07-25,62f9eea5-49e5-46a4-b519-0e455324ec0e,5096d16a-3eed-46df-bc21-06466d8e57b4,833036,Captopril 25 MG Oral Tablet,22298006.0,Myocardial Infarction
+2015-07-25,1970-01-01,62f9eea5-49e5-46a4-b519-0e455324ec0e,5096d16a-3eed-46df-bc21-06466d8e57b4,309362,Clopidogrel 75 MG Oral Tablet,22298006.0,Myocardial Infarction
+1924-12-20,1970-01-01,0a864fc6-07c9-46d6-9033-cbd803040f61,5073aa93-ef6e-44a2-9427-09c1db09823d,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1927-09-01,1970-01-01,0a864fc6-07c9-46d6-9033-cbd803040f61,5073aa93-ef6e-44a2-9427-09c1db09823d,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1992-09-29,1970-01-01,0a864fc6-07c9-46d6-9033-cbd803040f61,5073aa93-ef6e-44a2-9427-09c1db09823d,312961,Simvastatin 20 MG Oral Tablet,53741008.0,Coronary Heart Disease
+1992-09-29,1970-01-01,0a864fc6-07c9-46d6-9033-cbd803040f61,5073aa93-ef6e-44a2-9427-09c1db09823d,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+1967-12-03,1970-01-01,0ca6ab4d-59f9-40ea-9af0-363c9263492f,b5065d58-64b4-4145-8b82-58e7622aae62,849727,Naproxen sodium 220 MG [Aleve],239873007.0,Osteoarthritis of knee
+2010-04-11,2010-06-06,0ca6ab4d-59f9-40ea-9af0-363c9263492f,b5065d58-64b4-4145-8b82-58e7622aae62,1049221,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,0.0,Unknown
+2013-05-12,2013-06-22,0ca6ab4d-59f9-40ea-9af0-363c9263492f,a9e10c5f-b035-466d-8e1a-dcbc8496316a,313782,Acetaminophen 325 MG Oral Tablet,0.0,Unknown
+2015-10-01,2015-12-20,0ca6ab4d-59f9-40ea-9af0-363c9263492f,b41fb787-15d3-4143-96de-cfe18b4939ed,849574,Naproxen sodium 220 MG Oral Tablet,0.0,Unknown
+1994-07-30,1970-01-01,4fa14f0f-7ad8-4a5b-9a2d-7eca16ee2947,56d52e13-0df3-498a-aff2-b6facd064305,860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,44054006.0,Diabetes
+1994-07-30,1970-01-01,4fa14f0f-7ad8-4a5b-9a2d-7eca16ee2947,56d52e13-0df3-498a-aff2-b6facd064305,897122,3 ML liraglutide 6 MG/ML Pen Injector,44054006.0,Diabetes
+1995-05-26,1970-01-01,4fa14f0f-7ad8-4a5b-9a2d-7eca16ee2947,56d52e13-0df3-498a-aff2-b6facd064305,849727,Naproxen sodium 220 MG [Aleve],239873007.0,Osteoarthritis of knee
+2011-03-10,2011-03-20,4fa14f0f-7ad8-4a5b-9a2d-7eca16ee2947,56d52e13-0df3-498a-aff2-b6facd064305,1020137,Dextromethorphan Hydrobromide 1 MG/ML,10509002.0,Acute bronchitis (disorder)
+2012-02-05,2012-02-19,4fa14f0f-7ad8-4a5b-9a2d-7eca16ee2947,d714ad71-6a9b-48f7-99ef-a026d015a80e,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+1950-10-08,1958-04-18,d3ae6cdf-6637-4386-98d3-217933da5606,22bd855f-3897-4f05-a526-67ce6d05b755,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+1952-03-07,1970-01-01,d3ae6cdf-6637-4386-98d3-217933da5606,22bd855f-3897-4f05-a526-67ce6d05b755,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1958-04-18,1970-01-01,d3ae6cdf-6637-4386-98d3-217933da5606,22bd855f-3897-4f05-a526-67ce6d05b755,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],22298006.0,Myocardial Infarction
+2013-04-07,2014-07-09,4fa14f0f-7ad8-4a5b-9a2d-7eca16ee2947,bfc70a30-5b1e-495f-ab54-7a811e626d42,1373463,canagliflozin 100 MG Oral Tablet,44054006.0,Diabetes
+2017-01-04,2017-01-30,4fa14f0f-7ad8-4a5b-9a2d-7eca16ee2947,fb0b35b4-6a16-4a86-b8a5-5cd2879a1084,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+2000-12-25,1970-01-01,3d97b9a9-bb49-4fb8-8b0b-c4911988b063,243dbcc2-a659-4586-8170-23f91bc6227e,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1983-07-03,1970-01-01,77da8246-0fa5-4624-897a-618079cb3d8e,9cf2a4d4-7ba3-4869-a3a7-7ab9bba37098,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2014-08-12,2014-08-21,77da8246-0fa5-4624-897a-618079cb3d8e,d02756e7-e9fc-4a73-ad03-72b360e05af2,1020137,Dextromethorphan Hydrobromide 1 MG/ML,10509002.0,Acute bronchitis (disorder)
+2001-07-10,1970-01-01,93f15665-f1fe-4fb3-b171-4da2ef5074ec,d9a87e02-46fc-4c00-b4bc-15ebf5128e99,849727,Naproxen sodium 220 MG [Aleve],239873007.0,Osteoarthritis of knee
+2010-03-28,2010-06-11,93f15665-f1fe-4fb3-b171-4da2ef5074ec,d9a87e02-46fc-4c00-b4bc-15ebf5128e99,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2012-11-14,2012-11-21,93f15665-f1fe-4fb3-b171-4da2ef5074ec,5119f376-f51c-4d33-a538-a4b599af9e2f,568530,Nitrofurantoin 5 MG/ML [Furadantin],301011002.0,Escherichia coli urinary tract infection
+2012-11-14,2012-11-21,93f15665-f1fe-4fb3-b171-4da2ef5074ec,5119f376-f51c-4d33-a538-a4b599af9e2f,1094108,Phenazopyridine hydrochloride 100 MG [Pyridium],301011002.0,Escherichia coli urinary tract infection
+1984-08-23,1970-01-01,d49c8b23-7b5b-4b40-9fbf-a4d59f0f4495,d0df69db-988a-4f2d-9cf3-c8c1c3998e32,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+1949-01-01,1970-01-01,5a514799-d4c1-4b51-966f-2bfd7263ae75,6ef04e96-c247-4de7-bc16-ae507f91b721,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2011-01-18,2011-02-03,5a514799-d4c1-4b51-966f-2bfd7263ae75,6ef04e96-c247-4de7-bc16-ae507f91b721,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+1954-02-23,1970-01-01,7d6495e1-2bf4-4b8a-9e60-2c944707ee82,17d3bcc7-12f9-4baf-855e-956667a7ccac,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1965-09-18,1970-01-01,7d6495e1-2bf4-4b8a-9e60-2c944707ee82,17d3bcc7-12f9-4baf-855e-956667a7ccac,861467,Meperidine Hydrochloride 50 MG Oral Tablet,0.0,Unknown
+1969-12-08,1970-01-01,7d6495e1-2bf4-4b8a-9e60-2c944707ee82,17d3bcc7-12f9-4baf-855e-956667a7ccac,849727,Naproxen sodium 220 MG [Aleve],201834006.0,Localized  primary osteoarthritis of the hand
+1985-03-15,1970-01-01,7d6495e1-2bf4-4b8a-9e60-2c944707ee82,17d3bcc7-12f9-4baf-855e-956667a7ccac,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2011-05-12,2011-05-24,5a514799-d4c1-4b51-966f-2bfd7263ae75,3031cb09-b0f5-415d-9c6d-0c1babeec2ae,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+2012-04-09,1970-01-01,5a514799-d4c1-4b51-966f-2bfd7263ae75,3c7e88fb-f5f7-4377-8851-fff2ec8291f9,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2014-07-24,2014-08-17,5a514799-d4c1-4b51-966f-2bfd7263ae75,02227942-4e27-4097-b839-97f399ebbde0,308192,Amoxicillin 500 MG Oral Tablet,0.0,Unknown
+2014-07-24,2014-12-01,5a514799-d4c1-4b51-966f-2bfd7263ae75,02227942-4e27-4097-b839-97f399ebbde0,1049221,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,0.0,Unknown
+2014-07-24,2014-08-17,5a514799-d4c1-4b51-966f-2bfd7263ae75,02227942-4e27-4097-b839-97f399ebbde0,849574,Naproxen sodium 220 MG Oral Tablet,0.0,Unknown
+2015-05-03,2015-05-29,5a514799-d4c1-4b51-966f-2bfd7263ae75,ad4cebb3-d865-48a3-9741-3510859e8a25,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+2007-03-03,2014-09-06,5bf88efb-0c43-408b-8024-ade2e153b712,542e5144-c26a-413b-ad54-b9312076c988,748962,Camila 28 Day Pack,0.0,Unknown
+2011-07-14,2011-07-21,5bf88efb-0c43-408b-8024-ade2e153b712,318011d3-e141-4db1-a5a2-4074037a8dc3,568530,Nitrofurantoin 5 MG/ML [Furadantin],45816000.0,Pyelonephritis
+2011-07-14,2011-07-21,5bf88efb-0c43-408b-8024-ade2e153b712,318011d3-e141-4db1-a5a2-4074037a8dc3,1094108,Phenazopyridine hydrochloride 100 MG [Pyridium],45816000.0,Pyelonephritis
+2012-02-29,2012-03-14,5bf88efb-0c43-408b-8024-ade2e153b712,11b890a4-abcd-4a9f-a7d2-f48e07313a61,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+2014-12-06,1970-01-01,5bf88efb-0c43-408b-8024-ade2e153b712,600b967e-a3f9-4851-a72c-5c2a53dc2ef8,748962,Camila 28 Day Pack,0.0,Unknown
+2016-01-19,2016-02-25,5bf88efb-0c43-408b-8024-ade2e153b712,b4ccae01-40a1-40b5-9116-ebc05e4cb217,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+1975-09-14,1970-01-01,c4037ebc-b619-4b81-bb64-3058f7edbc3a,734d4518-4c88-46aa-8b89-85b16af14253,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2012-10-01,2012-10-12,c4037ebc-b619-4b81-bb64-3058f7edbc3a,6782efb3-2804-4be5-81da-3993e1870750,1020137,Dextromethorphan Hydrobromide 1 MG/ML,10509002.0,Acute bronchitis (disorder)
+1977-02-19,1970-01-01,3c539a71-9cc4-4f2c-ae55-1eaefb4c8683,3588f2d9-304d-4199-9935-fd1f423e10e4,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1984-01-22,1970-01-01,3c539a71-9cc4-4f2c-ae55-1eaefb4c8683,3588f2d9-304d-4199-9935-fd1f423e10e4,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1999-03-03,1970-01-01,3c539a71-9cc4-4f2c-ae55-1eaefb4c8683,3588f2d9-304d-4199-9935-fd1f423e10e4,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+1984-04-15,1970-01-01,d5266075-a496-4712-a6bb-8e7f68ed552e,d0fcf4d0-032f-4b83-9530-60e72912a816,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2006-06-07,1970-01-01,d5266075-a496-4712-a6bb-8e7f68ed552e,d0fcf4d0-032f-4b83-9530-60e72912a816,602735,Galantamine 4 MG [Razadyne],230265002.0,Familial Alzheimer's disease of early onset (disorder)
+2007-04-26,1970-01-01,d5266075-a496-4712-a6bb-8e7f68ed552e,d0fcf4d0-032f-4b83-9530-60e72912a816,996741,Memantine hydrochloride 2 MG/ML [Namenda],230265002.0,Familial Alzheimer's disease of early onset (disorder)
+1987-06-12,1970-01-01,af131481-baf3-4fd6-8b18-a33e65bd306a,4a11f370-3088-4d11-93de-107ffe261e93,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2014-01-10,2014-01-23,af131481-baf3-4fd6-8b18-a33e65bd306a,3e6dd9cf-4bd1-4b0a-b0eb-29b1422a41d2,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+1999-02-24,1970-01-01,f8e16ac9-611d-4315-9992-04c7b8887bda,eebca3cd-69ee-4e99-9e4d-275b0a75d92c,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2010-10-02,2010-10-18,f8e16ac9-611d-4315-9992-04c7b8887bda,b428bdb1-95c5-4dcb-b435-f8248d25d5f3,861467,Meperidine Hydrochloride 50 MG Oral Tablet,0.0,Unknown
+2010-10-02,2010-12-25,f8e16ac9-611d-4315-9992-04c7b8887bda,b428bdb1-95c5-4dcb-b435-f8248d25d5f3,313782,Acetaminophen 325 MG Oral Tablet,0.0,Unknown
+2015-12-25,2016-03-05,f8e16ac9-611d-4315-9992-04c7b8887bda,7c3f2b80-6049-4c0d-b9cb-b182b51dba30,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+1977-01-09,1970-01-01,60386db7-1e41-4670-a75b-b0e8a293ad89,ba5f7a4e-6863-4816-97c6-2a88fe94e187,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1988-08-23,1970-01-01,60386db7-1e41-4670-a75b-b0e8a293ad89,ba5f7a4e-6863-4816-97c6-2a88fe94e187,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2011-04-08,2011-05-05,60386db7-1e41-4670-a75b-b0e8a293ad89,5fc12677-d506-4c6b-9919-54ba77fc277e,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2016-05-21,2016-06-09,60386db7-1e41-4670-a75b-b0e8a293ad89,c8361fea-feb9-442f-8391-d1400c48b5de,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+1925-11-22,1970-01-01,de1613da-03f4-4e8e-959e-415b8a7351a5,9a2b5da3-c6e7-40ab-b8c5-72f9f765fc42,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1954-02-28,1970-01-01,916258bc-734d-4ba8-ba62-c87cb0fae3cb,84993b73-1881-43ff-8ff7-b6e7268832e1,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2011-02-28,2016-11-18,916258bc-734d-4ba8-ba62-c87cb0fae3cb,84993b73-1881-43ff-8ff7-b6e7268832e1,309362,Clopidogrel 75 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2011-02-28,1970-01-01,916258bc-734d-4ba8-ba62-c87cb0fae3cb,84993b73-1881-43ff-8ff7-b6e7268832e1,312961,Simvastatin 20 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2011-02-28,1970-01-01,916258bc-734d-4ba8-ba62-c87cb0fae3cb,84993b73-1881-43ff-8ff7-b6e7268832e1,197361,Amlodipine 5 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2011-02-28,1970-01-01,916258bc-734d-4ba8-ba62-c87cb0fae3cb,84993b73-1881-43ff-8ff7-b6e7268832e1,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+2016-11-18,1970-01-01,916258bc-734d-4ba8-ba62-c87cb0fae3cb,48c04912-52ac-48d7-9726-148cf3921120,309362,Clopidogrel 75 MG Oral Tablet,230690007.0,Stroke
+2016-11-18,2016-11-18,916258bc-734d-4ba8-ba62-c87cb0fae3cb,48c04912-52ac-48d7-9726-148cf3921120,308056,Alteplase 1 MG/ML Injectable Solution,230690007.0,Stroke
+2011-02-05,1970-01-01,1f12447a-e1cb-460d-a51b-38aad0624fb3,a58cabf4-483a-4456-ba2f-e6f1ce759068,748962,Camila 28 Day Pack,0.0,Unknown
+2016-11-09,1970-01-01,1f12447a-e1cb-460d-a51b-38aad0624fb3,a0c4b334-e57e-4441-a98e-cd2c1a962f26,106258,Hydrocortisone 10 MG/ML Topical Cream,40275004.0,Contact dermatitis
+2016-11-25,1970-01-01,1f12447a-e1cb-460d-a51b-38aad0624fb3,176e2c20-7d19-4e13-8492-9f384c74dad2,311372,Loratadine 10 MG Oral Tablet,0.0,Unknown
+2016-11-25,1970-01-01,1f12447a-e1cb-460d-a51b-38aad0624fb3,176e2c20-7d19-4e13-8492-9f384c74dad2,727316,0.3 ML EPINEPHrine 0.5 MG/ML Auto-Injector,0.0,Unknown
+1980-08-19,1970-01-01,13780e2f-675e-4f08-836a-62bc3b061db8,007ca618-24cf-4886-b967-9ee1dfa83c50,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2014-09-26,2014-10-06,13780e2f-675e-4f08-836a-62bc3b061db8,35889ac5-e7c5-4443-bd3d-a12915abfca2,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+1941-04-27,1970-01-01,b10726f8-d3aa-41c0-9041-c898c4c121b5,0cf3e440-5f01-4d7f-b4fc-dd8870abc222,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1964-08-11,1970-01-01,b10726f8-d3aa-41c0-9041-c898c4c121b5,0cf3e440-5f01-4d7f-b4fc-dd8870abc222,106258,Hydrocortisone 10 MG/ML Topical Cream,40275004.0,Contact dermatitis
+1961-10-29,1970-01-01,0cf4d997-e635-462d-894a-fa9e3b5e226a,dc248bc4-c552-4b3e-88d7-28d49d6dbbba,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1968-06-10,1970-01-01,0cf4d997-e635-462d-894a-fa9e3b5e226a,dc248bc4-c552-4b3e-88d7-28d49d6dbbba,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1986-05-26,1970-01-01,0cf4d997-e635-462d-894a-fa9e3b5e226a,dc248bc4-c552-4b3e-88d7-28d49d6dbbba,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2003-02-26,1970-01-01,0cf4d997-e635-462d-894a-fa9e3b5e226a,dc248bc4-c552-4b3e-88d7-28d49d6dbbba,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+1973-10-18,1970-01-01,60d4b54c-261b-4b22-a469-218d04b7c1a1,021f2064-b93f-4205-b949-5afe61affc22,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1977-01-14,1970-01-01,60d4b54c-261b-4b22-a469-218d04b7c1a1,021f2064-b93f-4205-b949-5afe61affc22,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2013-10-10,1970-01-01,60d4b54c-261b-4b22-a469-218d04b7c1a1,e981b55f-a482-485c-ad94-23e0805f489c,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2011-08-27,2011-09-10,cca2b9a3-f1e6-4d94-8998-806b127b5f84,a22f439c-dc23-474b-a081-f0e97cfb3dc5,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+2017-04-20,2017-05-10,cca2b9a3-f1e6-4d94-8998-806b127b5f84,8d8f7758-767c-4a98-9983-4a03d0cf924a,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+1935-11-26,1970-01-01,6bcf0d41-632b-4de5-822b-7b12c717bea9,95ae7fdf-bf00-4751-ab1b-8c3c154a70f1,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+1941-05-05,1970-01-01,6bcf0d41-632b-4de5-822b-7b12c717bea9,95ae7fdf-bf00-4751-ab1b-8c3c154a70f1,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2011-03-15,2011-04-12,2ce93b3e-ebec-4650-9aff-08706930b087,0327dd47-2025-49d0-8569-044f55054a5d,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2016-03-27,2016-04-08,2ce93b3e-ebec-4650-9aff-08706930b087,9c50babf-8d02-4153-bf4d-1f4b155ec610,1020137,Dextromethorphan Hydrobromide 1 MG/ML,10509002.0,Acute bronchitis (disorder)
+1984-06-29,1970-01-01,78205c61-8f16-4bca-a5e0-a22cb9d7fecf,d991eb15-ba44-4698-bf37-0139c66bfbbd,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1978-12-14,1970-01-01,078ce3fd-a949-49c2-abae-2a473073f2e5,340855a7-1927-4f6f-ba06-d5a1d83e6148,239981,Chlorpheniramine 2 MG Chewable Tablet,0.0,Unknown
+2012-03-15,2012-03-23,078ce3fd-a949-49c2-abae-2a473073f2e5,c1325a43-dbd4-42fa-9b5d-f571ea37ace9,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+1989-07-15,1970-01-01,9e2ffb62-5107-4d43-92af-37691829d86f,97a67dff-40e5-4360-9c66-d45dde87bc8a,239981,Chlorpheniramine 2 MG Chewable Tablet,0.0,Unknown
+1989-07-15,1970-01-01,9e2ffb62-5107-4d43-92af-37691829d86f,97a67dff-40e5-4360-9c66-d45dde87bc8a,727316,0.3 ML EPINEPHrine 0.5 MG/ML Auto-Injector,0.0,Unknown
+1990-11-02,1970-01-01,9e2ffb62-5107-4d43-92af-37691829d86f,97a67dff-40e5-4360-9c66-d45dde87bc8a,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2006-10-29,1970-01-01,9e2ffb62-5107-4d43-92af-37691829d86f,97a67dff-40e5-4360-9c66-d45dde87bc8a,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2011-06-03,2013-07-26,9e2ffb62-5107-4d43-92af-37691829d86f,9151581f-b8c8-4aff-a07f-2b85c3699815,1111011,Nexplanon 68 MG Drug Implant,0.0,Unknown
+2014-05-05,2014-05-16,9e2ffb62-5107-4d43-92af-37691829d86f,3ea0b5a6-9cef-434a-bde6-b3194f27e504,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+1976-06-26,1970-01-01,07ecdc7d-4319-4e59-b9a8-ab35c1668385,2750c4ca-438b-475c-a851-4d10440cb96c,239981,Chlorpheniramine 2 MG Chewable Tablet,0.0,Unknown
+2010-11-06,1970-01-01,07ecdc7d-4319-4e59-b9a8-ab35c1668385,2750c4ca-438b-475c-a851-4d10440cb96c,860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,44054006.0,Diabetes
+2011-05-03,2011-05-31,07ecdc7d-4319-4e59-b9a8-ab35c1668385,7a2cec7c-7238-4a5d-8592-bf914ad53a9a,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2011-08-30,1970-01-01,07ecdc7d-4319-4e59-b9a8-ab35c1668385,cfc3b813-be43-4e02-bfd1-d85af536e654,106892,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],44054006.0,Diabetes
+2013-04-09,1970-01-01,07ecdc7d-4319-4e59-b9a8-ab35c1668385,88e5d714-ff86-4c97-bedc-bd809def1d60,1000128,1 ML Depo-Provera 150 MG/ML Injection,0.0,Unknown
+2006-05-03,1970-01-01,ff34debd-b129-497c-b44e-560600eacb83,632ac545-9e29-489a-ad12-18d0535bed47,860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,44054006.0,Diabetes
+2013-02-06,2013-02-24,ff34debd-b129-497c-b44e-560600eacb83,d92a13df-249c-4ce8-8c42-f1a39f978ade,849574,Naproxen sodium 220 MG Oral Tablet,0.0,Unknown
+2014-01-03,1970-01-01,ff34debd-b129-497c-b44e-560600eacb83,1f397fff-a2d2-4890-a7cc-ebe0c8dd410d,106892,insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin],44054006.0,Diabetes
+2005-03-01,1970-01-01,b905b44f-7daa-40c5-bb95-cb82f3180f19,5e16e9c1-693a-4550-a743-8a4b4b2597ed,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+1947-12-29,1970-01-01,91130709-2a25-42a8-b911-602c46e47f5e,59d8f0c7-b7a2-4835-a480-2810a9832eef,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2015-08-31,1970-01-01,91130709-2a25-42a8-b911-602c46e47f5e,1ecbac33-7002-4a86-9cca-9a8db90adb74,309362,Clopidogrel 75 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2015-08-31,1970-01-01,91130709-2a25-42a8-b911-602c46e47f5e,1ecbac33-7002-4a86-9cca-9a8db90adb74,312961,Simvastatin 20 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2015-08-31,1970-01-01,91130709-2a25-42a8-b911-602c46e47f5e,1ecbac33-7002-4a86-9cca-9a8db90adb74,197361,Amlodipine 5 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2015-08-31,1970-01-01,91130709-2a25-42a8-b911-602c46e47f5e,1ecbac33-7002-4a86-9cca-9a8db90adb74,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+2013-01-08,2013-01-22,a3c9f461-c7c0-468b-b31f-6a9b3b18b293,894b721b-69c2-4d0c-b348-ebcca2f4df24,392151,Amoxicillin 200 MG Oral Tablet,0.0,Unknown
+2013-01-08,2013-01-22,a3c9f461-c7c0-468b-b31f-6a9b3b18b293,894b721b-69c2-4d0c-b348-ebcca2f4df24,282464,Acetaminophen 160 MG Oral Tablet,0.0,Unknown
+2013-02-23,1970-01-01,a3c9f461-c7c0-468b-b31f-6a9b3b18b293,ef7d0e9d-4a80-46ac-bc92-45337311413a,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2016-05-10,2016-05-18,a3c9f461-c7c0-468b-b31f-6a9b3b18b293,ed5c3e11-4a66-4f85-8867-378eb8bf0412,1020137,Dextromethorphan Hydrobromide 1 MG/ML,10509002.0,Acute bronchitis (disorder)
+2017-05-03,2017-05-17,a3c9f461-c7c0-468b-b31f-6a9b3b18b293,0fb3ffc7-2fce-4ec0-94b0-772d2fde55e9,309097,Cefuroxime 250 MG Oral Tablet,0.0,Unknown
+2017-05-03,2017-05-17,a3c9f461-c7c0-468b-b31f-6a9b3b18b293,0fb3ffc7-2fce-4ec0-94b0-772d2fde55e9,282464,Acetaminophen 160 MG Oral Tablet,0.0,Unknown
+2002-09-30,1970-01-01,ad840d0f-20e6-4dda-9d86-269458f04f05,10283c95-06e3-49be-ab11-c223ce52676b,665078,Loratadine 5 MG Chewable Tablet,0.0,Unknown
+2002-10-10,1970-01-01,ad840d0f-20e6-4dda-9d86-269458f04f05,10283c95-06e3-49be-ab11-c223ce52676b,727316,0.3 ML EPINEPHrine 0.5 MG/ML Auto-Injector,0.0,Unknown
+2002-12-06,1970-01-01,ad840d0f-20e6-4dda-9d86-269458f04f05,10283c95-06e3-49be-ab11-c223ce52676b,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2011-09-11,2011-11-22,ad840d0f-20e6-4dda-9d86-269458f04f05,2d58b3cc-d878-4d9d-b94b-31622d1a0b87,198405,Ibuprofen 100 MG Oral Tablet,0.0,Unknown
+2012-02-04,2012-02-11,ad840d0f-20e6-4dda-9d86-269458f04f05,67cddbe3-e330-43c3-bbae-0a8fd3e0c46d,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+1990-06-28,1970-01-01,4e106434-3675-42a9-bd4a-0ae30225ec2f,695dae06-c0b7-4d28-a9bc-5c83399df1a2,197378,Astemizole 10 MG Oral Tablet,0.0,Unknown
+1990-06-28,1970-01-01,4e106434-3675-42a9-bd4a-0ae30225ec2f,695dae06-c0b7-4d28-a9bc-5c83399df1a2,727316,0.3 ML EPINEPHrine 0.5 MG/ML Auto-Injector,0.0,Unknown
+1991-02-12,1970-01-01,4e106434-3675-42a9-bd4a-0ae30225ec2f,695dae06-c0b7-4d28-a9bc-5c83399df1a2,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2000-03-07,1970-01-01,4e106434-3675-42a9-bd4a-0ae30225ec2f,695dae06-c0b7-4d28-a9bc-5c83399df1a2,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2011-07-06,2011-07-20,4e106434-3675-42a9-bd4a-0ae30225ec2f,695dae06-c0b7-4d28-a9bc-5c83399df1a2,308192,Amoxicillin 500 MG Oral Tablet,0.0,Unknown
+2011-07-06,2011-07-20,4e106434-3675-42a9-bd4a-0ae30225ec2f,695dae06-c0b7-4d28-a9bc-5c83399df1a2,313782,Acetaminophen 325 MG Oral Tablet,0.0,Unknown
+2014-11-19,2014-12-14,4e106434-3675-42a9-bd4a-0ae30225ec2f,ad0016c6-17e2-49bd-9388-fd1415e01a98,849574,Naproxen sodium 220 MG Oral Tablet,0.0,Unknown
+1946-08-05,1970-01-01,9c50f2da-07fd-4c1e-9a1d-51e5e9b5f3a1,8f5b2009-e1e2-48e0-aaa7-45229d583b7c,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1996-09-06,1970-01-01,9c50f2da-07fd-4c1e-9a1d-51e5e9b5f3a1,8f5b2009-e1e2-48e0-aaa7-45229d583b7c,896188,Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],87433001.0,Pulmonary emphysema (disorder)
+2000-11-06,2013-01-08,8066264e-e48c-43cb-b480-9d12efc683c7,f346dd2d-de01-4712-bf23-65337a1a8d4f,309362,Clopidogrel 75 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2000-11-06,1970-01-01,8066264e-e48c-43cb-b480-9d12efc683c7,f346dd2d-de01-4712-bf23-65337a1a8d4f,312961,Simvastatin 20 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2000-11-06,1970-01-01,8066264e-e48c-43cb-b480-9d12efc683c7,f346dd2d-de01-4712-bf23-65337a1a8d4f,197361,Amlodipine 5 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2000-11-06,1970-01-01,8066264e-e48c-43cb-b480-9d12efc683c7,f346dd2d-de01-4712-bf23-65337a1a8d4f,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+2013-01-08,2014-01-14,8066264e-e48c-43cb-b480-9d12efc683c7,19205410-a33b-4778-b8ea-822c8895b3ae,309362,Clopidogrel 75 MG Oral Tablet,230690007.0,Stroke
+2013-01-08,2013-01-08,8066264e-e48c-43cb-b480-9d12efc683c7,19205410-a33b-4778-b8ea-822c8895b3ae,308056,Alteplase 1 MG/ML Injectable Solution,230690007.0,Stroke
+2013-05-07,2013-05-24,8066264e-e48c-43cb-b480-9d12efc683c7,b656fe65-68f6-485d-af80-ca32a209c36c,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2014-01-14,2014-09-09,8066264e-e48c-43cb-b480-9d12efc683c7,627820a5-b085-4ef0-833d-78f69cb64bfe,309362,Clopidogrel 75 MG Oral Tablet,230690007.0,Stroke
+2014-01-14,2014-01-14,8066264e-e48c-43cb-b480-9d12efc683c7,627820a5-b085-4ef0-833d-78f69cb64bfe,308056,Alteplase 1 MG/ML Injectable Solution,230690007.0,Stroke
+2014-09-09,1970-01-01,8066264e-e48c-43cb-b480-9d12efc683c7,9034e80d-aa80-457b-8639-af956c1608eb,309362,Clopidogrel 75 MG Oral Tablet,230690007.0,Stroke
+2014-09-09,2014-09-09,8066264e-e48c-43cb-b480-9d12efc683c7,9034e80d-aa80-457b-8639-af956c1608eb,308056,Alteplase 1 MG/ML Injectable Solution,230690007.0,Stroke
+1989-11-11,1970-01-01,5420259f-0d7d-48e5-9319-ef5a0f9efa30,d3656714-188c-4579-a86e-4b2d55f0641a,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1991-03-05,1970-01-01,5420259f-0d7d-48e5-9319-ef5a0f9efa30,d3656714-188c-4579-a86e-4b2d55f0641a,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1994-07-23,1970-01-01,5420259f-0d7d-48e5-9319-ef5a0f9efa30,d3656714-188c-4579-a86e-4b2d55f0641a,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2001-01-18,1970-01-01,5420259f-0d7d-48e5-9319-ef5a0f9efa30,d3656714-188c-4579-a86e-4b2d55f0641a,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1978-04-30,1970-01-01,dfc8bf6c-b7c0-492c-94a0-21b579d2d4e0,a948c395-c7a1-4d7c-a537-fcf168416c90,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+1982-06-13,1970-01-01,dfc8bf6c-b7c0-492c-94a0-21b579d2d4e0,a948c395-c7a1-4d7c-a537-fcf168416c90,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+1985-12-30,1970-01-01,dfc8bf6c-b7c0-492c-94a0-21b579d2d4e0,a948c395-c7a1-4d7c-a537-fcf168416c90,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2013-12-12,2014-01-31,dfc8bf6c-b7c0-492c-94a0-21b579d2d4e0,a756e56d-899f-4d8d-a5b0-4f01811e485c,857005,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,0.0,Unknown
+2013-12-12,2014-02-26,dfc8bf6c-b7c0-492c-94a0-21b579d2d4e0,a756e56d-899f-4d8d-a5b0-4f01811e485c,849574,Naproxen sodium 220 MG Oral Tablet,0.0,Unknown
+1989-10-06,1970-01-01,1d26cd0e-4a8f-400a-997b-72eb416362be,3deec5c1-7fa1-4284-a309-47d9d6a2e2b9,106258,Hydrocortisone 10 MG/ML Topical Cream,40275004.0,Contact dermatitis
+1989-10-17,1970-01-01,1d26cd0e-4a8f-400a-997b-72eb416362be,3deec5c1-7fa1-4284-a309-47d9d6a2e2b9,197378,Astemizole 10 MG Oral Tablet,0.0,Unknown
+1989-10-17,1970-01-01,1d26cd0e-4a8f-400a-997b-72eb416362be,3deec5c1-7fa1-4284-a309-47d9d6a2e2b9,727316,0.3 ML EPINEPHrine 0.5 MG/ML Auto-Injector,0.0,Unknown
+2004-04-30,1970-01-01,1d26cd0e-4a8f-400a-997b-72eb416362be,3deec5c1-7fa1-4284-a309-47d9d6a2e2b9,849727,Naproxen sodium 220 MG [Aleve],201834006.0,Localized  primary osteoarthritis of the hand
+1913-09-30,1941-08-20,e3271ccd-3014-409f-8e49-8f7539146efe,ef8bcc2b-1a59-49c9-8779-06a6f92397f5,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+1922-07-30,1970-01-01,e3271ccd-3014-409f-8e49-8f7539146efe,ef8bcc2b-1a59-49c9-8779-06a6f92397f5,1049221,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,0.0,Unknown
+1941-08-20,1970-01-01,e3271ccd-3014-409f-8e49-8f7539146efe,ef8bcc2b-1a59-49c9-8779-06a6f92397f5,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],22298006.0,Myocardial Infarction
+1963-01-11,1970-01-01,d344c885-f61f-44d3-af08-7eb742192992,7c54858f-8b1f-47e9-afa0-1900041bb0e9,849727,Naproxen sodium 220 MG [Aleve],239872002.0,Osteoarthritis of hip
+2011-05-12,2011-05-23,d344c885-f61f-44d3-af08-7eb742192992,9b6cabce-7d38-4e5f-be0e-e06217a11d70,1049221,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,0.0,Unknown
+2011-05-12,2011-07-05,d344c885-f61f-44d3-af08-7eb742192992,9b6cabce-7d38-4e5f-be0e-e06217a11d70,849574,Naproxen sodium 220 MG Oral Tablet,0.0,Unknown
+2012-09-02,2012-09-12,d344c885-f61f-44d3-af08-7eb742192992,a81cb15f-0732-4a96-9ded-7fa9ed627425,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],75498004.0,Acute bacterial sinusitis (disorder)
+2016-05-12,1970-01-01,d344c885-f61f-44d3-af08-7eb742192992,9d02264c-c1b2-44b7-9c82-ec39a2a6bdbf,904420,Alendronic acid 10 MG [Fosamax],0.0,Unknown
+1976-09-15,1970-01-01,cfebb52d-2864-4a00-88f1-0331dc93776c,ed2c22dc-c8b9-4b46-9a45-04706ae24274,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2008-02-18,1970-01-01,cfebb52d-2864-4a00-88f1-0331dc93776c,ed2c22dc-c8b9-4b46-9a45-04706ae24274,849727,Naproxen sodium 220 MG [Aleve],239872002.0,Osteoarthritis of hip
+2012-05-31,2012-07-08,cfebb52d-2864-4a00-88f1-0331dc93776c,c39ca921-f516-4357-9733-932e956b095e,313782,Acetaminophen 325 MG Oral Tablet,0.0,Unknown
+2015-04-13,2015-05-15,d40cc853-4d74-4fda-87c7-6e2e3b110bfe,81bf7e46-874c-4a81-ad41-652ff58fb4ef,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2004-05-24,1970-01-01,0d0c5021-431d-421f-8e0f-1f523f972171,82bbf04e-6eff-4222-b571-147c3e1ee364,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2012-08-04,2012-08-18,0d0c5021-431d-421f-8e0f-1f523f972171,82000a78-366e-4c69-9995-c3f3cec14423,1310197,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin],0.0,Unknown
+2014-02-16,2014-02-27,0d0c5021-431d-421f-8e0f-1f523f972171,b9cca6d6-1500-4441-acee-3fc4c19cf9f3,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+1992-12-21,1970-01-01,3709b760-2e56-4805-ba81-f1ff38a80df3,5424679f-bc5c-46b8-a896-45568bffc957,665078,Loratadine 5 MG Chewable Tablet,0.0,Unknown
+1992-12-21,1970-01-01,3709b760-2e56-4805-ba81-f1ff38a80df3,5424679f-bc5c-46b8-a896-45568bffc957,727316,0.3 ML EPINEPHrine 0.5 MG/ML Auto-Injector,0.0,Unknown
+1994-06-21,2011-08-11,3709b760-2e56-4805-ba81-f1ff38a80df3,5424679f-bc5c-46b8-a896-45568bffc957,895994,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,233678006.0,Childhood asthma
+1994-06-21,2011-08-11,3709b760-2e56-4805-ba81-f1ff38a80df3,5424679f-bc5c-46b8-a896-45568bffc957,745679,200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,233678006.0,Childhood asthma
+2016-05-13,2016-06-02,3709b760-2e56-4805-ba81-f1ff38a80df3,efff7e77-5438-434a-9992-449a2986a172,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2017-01-05,2017-01-13,3709b760-2e56-4805-ba81-f1ff38a80df3,d237536b-efa6-4609-889c-380a7291a47d,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+1967-05-08,1970-01-01,d9c68d16-2d33-4cb2-9570-4d0e30e2842d,8dc2a381-1633-4685-a6c0-df96d09a43c6,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1970-12-23,1970-01-01,d9c68d16-2d33-4cb2-9570-4d0e30e2842d,8dc2a381-1633-4685-a6c0-df96d09a43c6,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1983-08-28,1970-01-01,d9c68d16-2d33-4cb2-9570-4d0e30e2842d,8dc2a381-1633-4685-a6c0-df96d09a43c6,896188,Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],185086009.0,Chronic obstructive bronchitis (disorder)
+2002-05-23,2012-11-15,d9c68d16-2d33-4cb2-9570-4d0e30e2842d,8dc2a381-1633-4685-a6c0-df96d09a43c6,748962,Camila 28 Day Pack,0.0,Unknown
+1954-12-09,1970-01-01,54ca1d0b-37f6-4553-9ae6-d92b9cb3cce9,a87a6dbc-8aa4-473f-a08a-f7cec1311a90,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2005-01-10,1970-01-01,0bf42089-108e-4184-a899-f0e3e4ad9185,76dffe05-cda1-413e-b311-27a7a3ad6282,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2007-09-24,1970-01-01,0bf42089-108e-4184-a899-f0e3e4ad9185,76dffe05-cda1-413e-b311-27a7a3ad6282,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2014-08-19,1970-01-01,0bf42089-108e-4184-a899-f0e3e4ad9185,282177ae-bc08-471b-845a-6100b6e0c3f4,749762,Seasonique 91 Day Pack,0.0,Unknown
+1976-10-23,1970-01-01,aec6ec81-0aba-4b35-877e-70ac8f82a481,5884908e-d7a5-4355-9b16-92683e65a943,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1977-04-04,1970-01-01,aec6ec81-0aba-4b35-877e-70ac8f82a481,5884908e-d7a5-4355-9b16-92683e65a943,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1985-08-15,1970-01-01,50b8e850-0c2a-469b-82b0-c283f8d8ffd5,73a2447f-7d65-41be-b307-736aa6112fbf,849727,Naproxen sodium 220 MG [Aleve],239872002.0,Osteoarthritis of hip
+2008-06-14,2012-02-07,50b8e850-0c2a-469b-82b0-c283f8d8ffd5,73a2447f-7d65-41be-b307-736aa6112fbf,849437,Naproxen sodium 550 MG [Anaprox],69896004.0,Rheumatoid arthritis
+2008-06-14,2012-02-07,50b8e850-0c2a-469b-82b0-c283f8d8ffd5,73a2447f-7d65-41be-b307-736aa6112fbf,575020,Methotrexate 10 MG [Trexall],69896004.0,Rheumatoid arthritis
+1959-03-07,1970-01-01,77835ca7-9c70-45d2-8366-e267af9ff931,9388bf17-cc65-4517-bc4c-bbdf6512a0ab,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1987-06-23,1970-01-01,77835ca7-9c70-45d2-8366-e267af9ff931,9388bf17-cc65-4517-bc4c-bbdf6512a0ab,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2005-07-07,1970-01-01,77835ca7-9c70-45d2-8366-e267af9ff931,9388bf17-cc65-4517-bc4c-bbdf6512a0ab,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2009-01-18,1970-01-01,77835ca7-9c70-45d2-8366-e267af9ff931,9388bf17-cc65-4517-bc4c-bbdf6512a0ab,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2013-07-14,2013-08-22,77835ca7-9c70-45d2-8366-e267af9ff931,b012959e-f4fa-44c5-9830-bc15b56d4b34,308192,Amoxicillin 500 MG Oral Tablet,0.0,Unknown
+2013-07-14,2013-08-18,77835ca7-9c70-45d2-8366-e267af9ff931,b012959e-f4fa-44c5-9830-bc15b56d4b34,861467,Meperidine Hydrochloride 50 MG Oral Tablet,0.0,Unknown
+2013-07-14,2013-08-22,77835ca7-9c70-45d2-8366-e267af9ff931,b012959e-f4fa-44c5-9830-bc15b56d4b34,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2014-12-29,2015-01-07,77835ca7-9c70-45d2-8366-e267af9ff931,2fa6d605-290e-4f13-b814-ba36f7606b8f,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+1979-02-01,1970-01-01,238dd1db-acbc-44ad-93cf-0f37210709d5,947e57f6-6d17-4e26-8433-5c8d14efc591,235389,Mestranol / Norethynodrel [Enovid],0.0,Unknown
+1981-09-10,1970-01-01,238dd1db-acbc-44ad-93cf-0f37210709d5,947e57f6-6d17-4e26-8433-5c8d14efc591,896188,Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],185086009.0,Chronic obstructive bronchitis (disorder)
+1985-02-26,1970-01-01,a585ae96-b91a-40bb-bc0b-3df124802085,3dcbedb2-9f8a-46fd-87e0-1be090ffa07c,895994,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,233678006.0,Childhood asthma
+1985-02-26,1970-01-01,a585ae96-b91a-40bb-bc0b-3df124802085,3dcbedb2-9f8a-46fd-87e0-1be090ffa07c,745679,200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,233678006.0,Childhood asthma
+1972-04-23,1970-01-01,3e0d2bb3-5042-4b13-92a3-9c16359e880f,525f67b4-d5b9-4733-8160-fb0ac3e309c0,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1977-05-06,1970-01-01,3e0d2bb3-5042-4b13-92a3-9c16359e880f,525f67b4-d5b9-4733-8160-fb0ac3e309c0,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2016-06-16,2016-07-25,a28e2bec-f617-4dba-97ad-042bdc2d051b,fbcc25ab-94ae-481b-8704-7e2e15230795,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2016-04-04,1970-01-01,13451a6f-2401-4ade-ab7a-db31b227cee3,56dab9bb-b682-4352-ad8a-b454a9c8ae4c,748879,Levora 0.15/30 28 Day Pack,0.0,Unknown
+1972-08-13,1970-01-01,5c6ff6b0-20f8-4aea-a094-02dda2afa2ad,ca2b794d-7845-42f2-8224-01c78119fc9e,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2016-02-08,2016-04-05,a414b142-b099-48dc-91a2-d2a7b28dc66f,b31284af-40b4-41b4-bdba-210af853f58b,313782,Acetaminophen 325 MG Oral Tablet,0.0,Unknown
+2016-11-25,2016-12-13,a414b142-b099-48dc-91a2-d2a7b28dc66f,543e9077-f7a8-4a3d-9910-43ffd773166c,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+1969-02-18,1970-01-01,bc1d4978-5e32-4449-a14d-b9c9a70e3707,08989ff1-b028-44f4-a7c2-9ecb013b2b2b,849727,Naproxen sodium 220 MG [Aleve],239872002.0,Osteoarthritis of hip
+1988-05-23,1970-01-01,bc1d4978-5e32-4449-a14d-b9c9a70e3707,08989ff1-b028-44f4-a7c2-9ecb013b2b2b,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2009-08-02,2017-01-04,bc1d4978-5e32-4449-a14d-b9c9a70e3707,08989ff1-b028-44f4-a7c2-9ecb013b2b2b,309362,Clopidogrel 75 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2009-08-02,1970-01-01,bc1d4978-5e32-4449-a14d-b9c9a70e3707,08989ff1-b028-44f4-a7c2-9ecb013b2b2b,312961,Simvastatin 20 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2009-08-02,1970-01-01,bc1d4978-5e32-4449-a14d-b9c9a70e3707,08989ff1-b028-44f4-a7c2-9ecb013b2b2b,197361,Amlodipine 5 MG Oral Tablet,53741008.0,Coronary Heart Disease
+2009-08-02,1970-01-01,bc1d4978-5e32-4449-a14d-b9c9a70e3707,08989ff1-b028-44f4-a7c2-9ecb013b2b2b,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+2011-12-29,2012-01-12,bc1d4978-5e32-4449-a14d-b9c9a70e3707,ebe35c75-d926-41dd-a8a3-336aa8bbc44f,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+2015-04-22,2015-05-05,bc1d4978-5e32-4449-a14d-b9c9a70e3707,83d1372f-c699-492a-931f-b93f9f82c418,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+2017-01-04,1970-01-01,bc1d4978-5e32-4449-a14d-b9c9a70e3707,13354cd9-87d1-4e1d-94d1-0f860b0754c5,309362,Clopidogrel 75 MG Oral Tablet,230690007.0,Stroke
+2017-01-04,2017-01-04,bc1d4978-5e32-4449-a14d-b9c9a70e3707,13354cd9-87d1-4e1d-94d1-0f860b0754c5,308056,Alteplase 1 MG/ML Injectable Solution,230690007.0,Stroke
+1942-03-05,1970-01-01,c342b0c2-9847-4960-9b47-fefc547d68f0,73e24e32-b883-4a71-9d46-72ba0423e873,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1949-05-17,1970-01-01,c342b0c2-9847-4960-9b47-fefc547d68f0,73e24e32-b883-4a71-9d46-72ba0423e873,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+1964-03-07,1970-01-01,c342b0c2-9847-4960-9b47-fefc547d68f0,73e24e32-b883-4a71-9d46-72ba0423e873,896188,Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT [Advair],87433001.0,Pulmonary emphysema (disorder)
+1974-07-25,1970-01-01,c342b0c2-9847-4960-9b47-fefc547d68f0,73e24e32-b883-4a71-9d46-72ba0423e873,849727,Naproxen sodium 220 MG [Aleve],239873007.0,Osteoarthritis of knee
+1942-06-07,1970-01-01,2d896e57-7d64-47be-bf58-21752e4d2947,5bd6335a-d49e-4440-b015-9d8c4ef1bb24,860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,44054006.0,Diabetes
+1972-04-28,1974-07-12,2d896e57-7d64-47be-bf58-21752e4d2947,5bd6335a-d49e-4440-b015-9d8c4ef1bb24,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],53741008.0,Coronary Heart Disease
+1974-07-12,1970-01-01,2d896e57-7d64-47be-bf58-21752e4d2947,5bd6335a-d49e-4440-b015-9d8c4ef1bb24,564666,Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual],22298006.0,Myocardial Infarction
+1986-08-26,1970-01-01,d887585b-4ceb-4877-90ce-f69f74cc8c13,31a18f67-d8f9-4130-a456-8815dde5ff90,834060,Penicillin V Potassium 250 MG,43878008.0,Streptococcal sore throat (disorder)
+2010-11-24,2011-01-17,d887585b-4ceb-4877-90ce-f69f74cc8c13,31a18f67-d8f9-4130-a456-8815dde5ff90,861467,Meperidine Hydrochloride 50 MG Oral Tablet,0.0,Unknown
+2010-11-24,2011-01-23,d887585b-4ceb-4877-90ce-f69f74cc8c13,31a18f67-d8f9-4130-a456-8815dde5ff90,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2013-06-22,2013-06-30,d887585b-4ceb-4877-90ce-f69f74cc8c13,23718356-3baa-4973-abf8-2be409593c2a,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
+2015-07-26,2015-08-11,d887585b-4ceb-4877-90ce-f69f74cc8c13,3b184152-f546-4c00-b186-653afec673dd,1020137,Dextromethorphan Hydrobromide 1 MG/ML,10509002.0,Acute bronchitis (disorder)
+1983-08-30,1970-01-01,4a61056a-f239-41cc-b8c3-b9713cb7eca3,ef27a3be-404d-40a0-b82f-717fcfc09531,860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,44054006.0,Diabetes
+2015-07-26,2015-08-09,4a61056a-f239-41cc-b8c3-b9713cb7eca3,a8107d3d-7f0e-4309-8506-2234f60393f8,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2013-03-13,2013-03-31,97ff8232-f430-4c38-8278-69bb0e8f64ba,b47ad57c-c60c-47c9-ba04-7affe187c85f,310965,Ibuprofen 200 MG Oral Tablet,0.0,Unknown
+2001-10-10,1970-01-01,772ef6bb-86a0-41b1-a0eb-9cfdc7768993,a6623aa7-3b8d-4ddd-bcbf-a00a9b7f992e,834101,Penicillin V Potassium 500 MG,43878008.0,Streptococcal sore throat (disorder)
+2011-08-05,2011-08-26,42cd156b-e7a5-46f4-af5b-d2abc009d823,384864a3-c148-45cd-9cd9-2e1eccc6621f,608680,Acetaminophen 160 MG,10509002.0,Acute bronchitis (disorder)
+2012-05-13,2012-06-06,42cd156b-e7a5-46f4-af5b-d2abc009d823,5140eb8e-5070-44a1-a164-3aa805996639,824184, Amoxicillin 250 MG / Clavulanate 125 MG [Augmentin],444814009.0,Viral sinusitis (disorder)
