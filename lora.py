@@ -254,7 +254,7 @@ def train(model, train_set, val_set, optimizer, loss, tokenizer, args):
         # Model update
         optimizer.update(model, grad)
         mx.eval(model.parameters(), optimizer.state, lvalue)
-
+#-------------------------------------------------------------------------------------
         # Record loss
         losses.append(lvalue.item())
         n_tokens += toks.item()
@@ -361,7 +361,7 @@ if __name__ == "__main__":
 
         # Train model
         train(model, train_set, valid_set, opt, loss, tokenizer, args)
-
+#---------------------------weights saved here---------------------------------
         # Save adapter weights
         mx.savez(args.adapter_file, **dict(tree_flatten(model.trainable_parameters())))
 
