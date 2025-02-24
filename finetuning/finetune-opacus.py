@@ -1,6 +1,18 @@
 #change log: 
 
 
+#changed the training loop, need to validate
+#278-287 changes to while true loop
+#195-197 # Filter parameters that require gradients (i.e., the LoRA adapters) in adamw
+#75-78 to freeze all params not used
+#63-64 added 16 bit floats to the model insted of standard 32 bit
+
+#Added num_workers=4, pin_memory=True to dataloader on line 166
+# added non blocking in line 169
+# Above changes 
+
+
+
 #### To change -> change to 8B model
 # Already changed
 
@@ -35,7 +47,7 @@ from torch.optim import AdamW
 from peft import get_peft_model, LoraConfig, TaskType
 
 # Set up device: use GPU if available (or MPS if on Apple Silicon) otherwise CPU.
-device = torch.device("mps" if torch.backends.mps.is_available() else "cpu")
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
 # -------------------------------
@@ -55,7 +67,18 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 # This line loads a pre-trained causal language model (such as GPT-style models) using the same model identifier. 
 # It retrieves the model architecture and its pre-trained weights so you can use it for tasks like text generation.
-model = AutoModelForCausalLM.from_pretrained(model_name)
+# model = AutoModelForCausalLM.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    torch_dtype=torch.float16,       # Loads model in FP16
+    device_map="auto"                # Automatically distributes model across devices if needed
+)
+
+
+# Freeze all model parameters (ensuring no gradients are computed for the base model)
+for param in model.parameters():
+    param.requires_grad = False
+
 
 # Ensure a pad token exists (set to eos token if not present).
 # 1. Check for the padding token id. If none, use the eos_token as the padding token
@@ -162,12 +185,14 @@ print("Training data shape:", input_ids.shape)
 
 # Create a TensorDataset and DataLoader with a small batch size.
 train_dataset = TensorDataset(input_ids, attention_mask, labels)
-train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True, drop_last=True)
+#train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True, drop_last=True)
+train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True, drop_last=True, num_workers=4, pin_memory=True)
 
 # -------------------------------
 # 5. Set Up Optimizer and PrivacyEngine (DP-SGD)
 # -------------------------------
-optimizer = AdamW(model.parameters(), lr=2e-5)
+# optimizer = AdamW(model.parameters(), lr=2e-5)
+optimizer = AdamW(filter(lambda p: p.requires_grad, model.parameters()), lr=2e-4)
 
 
 # DP-SGD commented out for now
@@ -189,36 +214,93 @@ optimizer = AdamW(model.parameters(), lr=2e-5)
 # -------------------------------
 model.train()
 epochs = 4  # Use more epochs for a real task.
-for epoch in range(epochs):
-    total_loss = 0.0
-    i = 0
-    for batch in train_loader:
-        if i%50 == 0:
-            print(i)
-        i+=1
-        # Move each element of the batch to the device.
-        input_ids_batch, attention_mask_batch, labels_batch = [x.to(device) for x in batch]
+
+from torch.amp import autocast, GradScaler  # Import automatic mixed precision tools
+
+scaler = GradScaler('cuda')  # Create a gradient scaler to manage FP16 stability
+accumulation_steps = 1  # Set gradient accumulation steps; use >1 to simulate larger batch sizes
+
+
+for epoch in range(epochs):  # Loop over each epoch
+    total_loss = 0.0  # Initialize total loss accumulator for the epoch
+    optimizer.zero_grad()  # Zero gradients at the start of the epoch
+    for i, batch in enumerate(train_loader):  # Loop over mini-batches from the DataLoader
+        # Move each tensor in the batch to the device (GPU) asynchronously if pin_memory is True
+        input_ids_batch, attention_mask_batch, labels_batch = [
+            x.to(device, non_blocking=True) for x in batch
+        ]
         
-        # Create a position_ids tensor: shape [batch_size, seq_len]
-        seq_len = input_ids_batch.size(1)
+        # Determine the sequence length for the current batch and create position IDs accordingly
+        seq_len = input_ids_batch.size(1)  # Get the sequence length from the input tensor
+        # Create a tensor [0, 1, ..., seq_len-1] and repeat it for each item in the batch
         position_ids = torch.arange(seq_len, device=device).unsqueeze(0).repeat(input_ids_batch.size(0), 1)
         
-        # Forward pass: compute the loss.
-        outputs = model(
-            input_ids=input_ids_batch,
-            attention_mask=attention_mask_batch, 
-            position_ids=position_ids,
-            labels=labels_batch
-        )
-        loss = outputs.loss
-        total_loss += loss.item()
+        # Use mixed precision context for the forward pass to save memory and speed up computation
+        with autocast():
+            outputs = model(
+                input_ids=input_ids_batch,        # Input token IDs for the model
+                attention_mask=attention_mask_batch,  # Attention mask to differentiate padded tokens
+                position_ids=position_ids,          # Positional IDs for the tokens
+                labels=labels_batch                 # Labels for computing the loss (typically same as input_ids for causal LM)
+            )
+            # Compute the loss; if using gradient accumulation, scale down the loss accordingly
+            loss = outputs.loss / accumulation_steps
         
-        optimizer.zero_grad()
-        loss.backward()
-        optimizer.step()
+        # Scale the loss and perform the backward pass using the GradScaler for FP16 stability
+        scaler.scale(loss).backward()
+        
+        # Every 'accumulation_steps' iterations, update the model weights
+        if (i + 1) % accumulation_steps == 0:
+            scaler.step(optimizer)  # Update parameters using scaled gradients
+            scaler.update()         # Update the scale for the next iteration
+            optimizer.zero_grad()   # Reset gradients after updating
+        
+        # Accumulate the loss (multiply back to undo the earlier division, so total_loss is in original scale)
+        total_loss += loss.item() * accumulation_steps
+
+        # Optionally, print progress every 50 batches
+        if i % 50 == 0:
+            print(f"Batch {i} processed.")
     
+    # Compute the average loss over the epoch
     avg_loss = total_loss / len(train_loader)
     print(f"Epoch {epoch+1}/{epochs} - Average loss: {avg_loss:.4f}")
+
+
+
+
+
+# for epoch in range(epochs):
+#     total_loss = 0.0
+#     i = 0
+#     for batch in train_loader:
+#         if i%50 == 0:
+#             print(i)
+#         i+=1
+#         # Move each element of the batch to the device.
+#         # input_ids_batch, attention_mask_batch, labels_batch = [x.to(device) for x in batch]
+#         input_ids_batch, attention_mask_batch, labels_batch = [x.to(device, non_blocking=True) for x in batch]
+
+#         # Create a position_ids tensor: shape [batch_size, seq_len]
+#         seq_len = input_ids_batch.size(1)
+#         position_ids = torch.arange(seq_len, device=device).unsqueeze(0).repeat(input_ids_batch.size(0), 1)
+        
+#         # Forward pass: compute the loss.
+#         outputs = model(
+#             input_ids=input_ids_batch,
+#             attention_mask=attention_mask_batch, 
+#             position_ids=position_ids,
+#             labels=labels_batch
+#         )
+#         loss = outputs.loss
+#         total_loss += loss.item()
+        
+#         optimizer.zero_grad()
+#         loss.backward()
+#         optimizer.step()
+    
+#     avg_loss = total_loss / len(train_loader)
+#     print(f"Epoch {epoch+1}/{epochs} - Average loss: {avg_loss:.4f}")
 
 
 
@@ -252,10 +334,26 @@ while True:
     if sample_prompt.lower() == "bye":
         break
     enc = tokenizer(sample_prompt, return_tensors='pt', padding=True, truncation=True)
-    enc = {k: v.to(device) for k, v in enc.items()}
-    generated_ids = model.generate(**enc, max_length=512, do_sample=True, top_k=50)
+    enc = {k: v.to(device, non_blocking=True) for k, v in enc.items()}
+    
+    with torch.no_grad():
+        generated_ids = model.generate(**enc, max_length=512, do_sample=True, top_k=50)
     generated_text = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
     print("Generated text:", generated_text)
+
+
+
+
+
+# while True:
+#     sample_prompt = input("Input: ")
+#     if sample_prompt.lower() == "bye":
+#         break
+#     enc = tokenizer(sample_prompt, return_tensors='pt', padding=True, truncation=True)
+#     enc = {k: v.to(device) for k, v in enc.items()}
+#     generated_ids = model.generate(**enc, max_length=512, do_sample=True, top_k=50)
+#     generated_text = tokenizer.decode(generated_ids[0], skip_special_tokens=True)
+#     print("Generated text:", generated_text)
 
     #lora_alpha = 4
     #reduce loss to 2e-5
